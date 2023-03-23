@@ -29,7 +29,7 @@ def login_post():
     try:
         user = cursor.fetchone()
     except:
-        return "ctf{sqli_is_fun"+"}"
+        return "flag{sqli_is_fun"+"}"
 
     if user:
         session['user_id'] = user[0]
