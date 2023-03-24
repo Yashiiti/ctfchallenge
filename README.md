@@ -6,5 +6,5 @@
 We have made the login form for the sequel of our old website ,check if there is a vulnerability.
 
 # Challenge2
-Inspect our website and find a vulnerability.
+We have made a new website for our college,check if there is any sensitive information in it.
 
