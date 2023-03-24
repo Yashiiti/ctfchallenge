@@ -1,2 +1,2 @@
 # Challenge2
-Inspect our website and find a vulnerability.
+We have made a new website for our college,check if there is any sensitive information in it.
